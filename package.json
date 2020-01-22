@@ -1,0 +1,16 @@
+{
+  "name": "Test",
+  "main": "./index.html",
+  "version": "4.2.0-dev",
+  "window": {
+    "title": "CSP Test",
+    "show": true,
+    "frame": true,
+    "width": 671,
+    "height": 700,
+    "id": "1"
+  },
+  "node-remote": [
+    "*://*"
+  ]
+}
